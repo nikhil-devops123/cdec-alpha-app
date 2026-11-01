@@ -3,7 +3,7 @@
 
 pipeline {
     agent {
-        label 'ecs3'
+        label 'ecs2'
     }
 
     environment {
